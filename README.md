@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+Hi, I am Olawoyin Matthew. I am passionate about innovation and creativity and I'm mostly interested in building scalable software solutions for healthcare and other businesses. 
+
+Skills:
+- Frontend Web Development (HTML/CSS, Javascript, Reactjs)
+- Intermediate Backend Development (NodeJS/MySQL, PHP/MySQL )
+- Creative Visual & Motion Designs (Adobe Photoshop, Illustrator, AfterEffects, Premier Pro)
+- Data Analysis (Excel, SPSS, Python)
+
+Interests:
+- Data Analytics
+- AI/Machine Learning
+- Christian Literatures
+- Spoken Words/Poem
+
 <!--
 **mattnewdavid/mattnewdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
