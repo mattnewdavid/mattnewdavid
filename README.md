@@ -4,7 +4,7 @@ Hi, I am Olawoyin Matthew. I am passionate about innovation and creativity and I
 
 Skills:
 - Frontend Web Development (HTML/CSS, Javascript, Reactjs)
-- Intermediate Backend Development (Express/NodeJS/MySQL, PHP(PDO, Laravel)/MySQL )
+- Backend Development (Express/NodeJS/MySQL, PHP(PDO, Laravel)/MySQL )
 - Creative Visual & Motion Designs (Adobe Photoshop, Illustrator, AfterEffects, Premier Pro)
 - Data Analysis (Excel, SPSS, Python)
 
